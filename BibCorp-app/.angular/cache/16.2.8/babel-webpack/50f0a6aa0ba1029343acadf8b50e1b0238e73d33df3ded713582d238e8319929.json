@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './principal';\nexport * from './admin';","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

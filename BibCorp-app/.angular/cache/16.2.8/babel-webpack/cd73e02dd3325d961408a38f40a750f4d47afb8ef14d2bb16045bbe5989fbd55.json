@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./acervo.component\";\nexport * from './detalhe';\nexport * from './edicao';\nexport * from './lista';","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

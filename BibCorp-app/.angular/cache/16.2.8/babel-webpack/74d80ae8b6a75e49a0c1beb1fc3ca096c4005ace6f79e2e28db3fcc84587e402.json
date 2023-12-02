@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class RandomColors {\n  static colorsGenerate() {\n    const letters = '0123456789ABCDEF';\n    let color = '#';\n    for (let i = 0; i < 6; i++) {\n      color += letters[Math.floor(Math.random() * 16)];\n    }\n    return color;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

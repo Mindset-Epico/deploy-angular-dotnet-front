@@ -1,0 +1,1 @@
+{"ast":null,"code":"var _class;\nexport class Constants {}\n_class = Constants;\n_class.DATE_FMT = 'dd/MM/yyyy';\n_class.DATE_TIME_FMT = `${_class.DATE_FMT} hh:mm`;\n_class.LOCAL_STORAGE_NAME = \"app-BibCorp\";","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

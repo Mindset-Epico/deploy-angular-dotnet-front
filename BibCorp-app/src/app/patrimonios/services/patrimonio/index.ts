@@ -1,1 +1,2 @@
-export * from "./patrimonio.service";
+export * from './patrimonio.service'
+

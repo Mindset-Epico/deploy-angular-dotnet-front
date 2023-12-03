@@ -1,5 +1,7 @@
 import { TestBed, inject } from "@angular/core/testing";
-import { PatrimonioService } from "../../components";
+//import { PatrimonioService } from "../../components";
+
+import { PatrimonioService } from "./patrimonio.service";
 
 describe("Service: Acervo", () => {
   beforeEach(() => {
